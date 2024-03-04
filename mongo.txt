@@ -1,0 +1,3 @@
+mongo
+user: admin
+pw:R66higNjnVj0iNxK
